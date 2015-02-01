@@ -1,0 +1,1 @@
+var c2g_jQuery	= jQuery.noConflict();
